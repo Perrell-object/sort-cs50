@@ -1,0 +1,15 @@
+sort1 uses: Bubble Sort
+
+How do you know?: 50000 numbers were sorted in shorter time that sort3
+sort2 uses: Merge sort
+
+
+
+How do you know?: Sort2 sorts 50000 numbers in the shortest amount of time
+
+
+
+sort3 uses: selection sort
+
+How do you know?: The array of 50000 sorted numbers were organised in the longest amount of time
+in an array of already sorted numbers I was able to compared the O(n2) against bubble sort
